@@ -5,19 +5,22 @@ In this simulation, our objective is to assess the capacity of a Multiple-Input 
 
 ### Formulas:
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/18850be4-3999-4cd8-b9b5-7f9639fce826" alt="f1" width="400">
+![image]()
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/7492fc92-b786-44e0-8fcd-5101ebd14404" alt="f2" width="400">
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/19fadbe3-a481-4fa5-8a31-4b73b9cd1d03" alt="f3" width="400">
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/6df53f90-2900-4e0d-bffd-166a4e0ed6dc" alt="f1" width="400">
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/8bb23f79-27b2-4da1-afb5-dc8579a2542e" alt="f4" width="400">
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/8e1e662e-d090-434e-b738-016cea18d107" alt="f2" width="400">
+
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/2141cf4a-6302-4b67-bab7-8f2d8cf03d86" alt="f3" width="400">
+
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/74c9e70a-9706-4e20-9f95-d8759413acaf" alt="f4" width="400">
 
 ### Output:
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/a5d715bc-7b1f-4166-a24d-ad7e1d2fbdef" alt="H1" width="400">
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/d1a0ffeb-f0fe-4aca-a7a0-ce4de2450cdf" alt="H1" width="400">
 
-<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/95f45e0a-76c7-4151-94c2-f8d19c374f1f" alt="H2" width="400">
+<img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/97ad355d-0f34-459e-9815-3ea82b4719b8" alt="H2" width="400">
 
 ## Reference:
 This simulation is based on the book ["Introduction to MIMO Communications" by Jerry R. Hampton](https://www.google.com/books/edition/Introduction_to_MIMO_Communications/Ee_CAQAAQBAJ?hl=en&gbpv=0)
