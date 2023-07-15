@@ -5,9 +5,6 @@ In this simulation, our objective is to assess the capacity of a Multiple-Input 
 
 ### Formulas:
 
-![image]()
-
-
 <img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/6df53f90-2900-4e0d-bffd-166a4e0ed6dc" alt="f1" width="400">
 
 <img src="https://github.com/RGAlavicheh/MIMO-Performance-comparison/assets/94162828/8e1e662e-d090-434e-b738-016cea18d107" alt="f2" width="400">
