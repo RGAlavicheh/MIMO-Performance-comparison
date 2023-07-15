@@ -63,7 +63,7 @@ plot(snr, C_SISO, ":", LineWidth = 1.6);
 plot(snr, C_EqualPower, "--", LineWidth = 1.8);
 plot(snr, c_EBF, LineWidth = 1, Color = 'k');
 legend('Single Mode', 'SISO', 'EqualPower', "EigenBeamforming");
-title('Based in H_1');
+title('Based on H_1');
 xlim([-20 20]);
 ylim([0 20])
 xlabel('SNR(dB)');
@@ -126,7 +126,7 @@ plot(snr, C_SISO, ":", LineWidth = 1.6);
 plot(snr, C_EqualPower, "--", LineWidth = 1.8);
 plot(snr, c_EBF, LineWidth = 1, Color = 'k');
 legend('Single Mode', 'SISO', 'EqualPower', "EigenBeamforming");
-title('Based in H_2');
+title('Based on H_2');
 xlim([-20 20]);
 ylim([0 20])
 xlabel('SNR(dB)');
